@@ -4,7 +4,12 @@ title: Honi buruz
 permalink: /honi-buruz/
 ---
 
+
 About content goes here.
 
 * A list item
 * Another list item
+
+Contact content goes here.
+
+My e-mail is [email@something.com](mailto:email@something.com).
