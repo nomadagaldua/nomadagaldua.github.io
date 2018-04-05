@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h2>Bloga</h2> <p><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+<h2>Bloga</h2> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
 
 {% for post in site.posts %}
-		<time>{{ post.date | date: "%Y(e)ko %b(a)ren %-da" }}</time>
+		<time>{{ post.date | date: "%Y/%b/%-d" }}</time>
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
 
