@@ -3,7 +3,7 @@ layout: page
 title: Blogroll
 permalink: /blogroll/
 ---
-Hainbat gune interesgarri
+Hainbat gune eta jende interesgarri
 
 ##### [27 zapata]( http://www.27zapata.com/)
 
@@ -17,25 +17,21 @@ Hainbat gune interesgarri
 
 ##### [Ballast](http://www.revue-ballast.fr/)
 
-##### [Barnezine](http://www.barnezine.com/)
-
-##### [Birasuegi Komandantea](http://birasuegi.com/)
-
 ##### [Boligrafo gorria](http://www.argia.eus/blogak/boligrafo-gorria/)
 
-##### [Danele Sarriugarte (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/danele-sarriugarte)
+##### [Danele Sarriugarte (argia)](http://www.argia.eus/argia-astekaria/egileak/danele-sarriugarte-mochales)
 
-##### [Danele Sarriugarte (berria.eus)](http://www.berria.eus/egilea/danele_sarriugarte)
+##### [Danele Sarriugarte (berria)](http://www.berria.eus/egilea/danele_sarriugarte)
 
-##### [Elearazi](http://elearazi.eus/)
+##### [Elearazi](http://elearazi.eizie.eus/)
 
 ##### [Etzi.pm](http://etzi.pm/)
 
+##### [Ferrando Xanpun (kontulepo.eus)](http://www.kontulepo.eus/index.php/author/jon-gurrutxagaurbieta/)
+
+##### [Harrikadak](https://eibar.org/blogak/iturri)
+
 ##### [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
-
-##### [Hiri asko bere baitan](http://hiriaskoberebaitan.com/)
-
-##### [Hiru Damatxo](http://www.hirudamatxo.eus/)
 
 ##### [Itziar Ugarte Irizar (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/itziar-ugarte-irizar)
 
@@ -47,38 +43,26 @@ Hainbat gune interesgarri
 
 ##### [Lekore](http://lekore.eus/)
 
-##### [Nire kontra esanak](http://zuzeu.com/blogak/nire-kontraesanak/)
+##### [Metrokoadroka](http://metrokoadroka.eus/)
 
 ##### [Oharrak & Hondarrak](https://ibanzaldua.wordpress.com/)
-
-##### [OkerrekO](http://okerreko.net/)
 
 ##### [Période](http://revueperiode.net/)
 
 ##### [Pikara](http://www.pikaramagazine.com/)
 
-##### [Poetas da Hostia](http://poetasdahostia.blogaliza.org/)
-
 ##### [Polirika](https://julegoikoetxea.wordpress.com/)
-
-##### [Radical Film Network](http://www.radicalfilmnetwork.com/)
 
 ##### [Separata](https://separata.wordpress.com/)
 
-##### [Talaios Koop.]( http://talaios.net/)
+##### [Teketen](http://teketen.com/)
 
-##### [Teketen]( http://teketen.com/)
+##### [Topatu](http://topatu.eus/)
 
-##### [Topatu]( http://topatu.eus/)
+##### [Viewpoint Magazine](https://viewpointmag.com/)
 
-##### [Txikira beti hordago!]( http://txikirabetihordago.net/)
+##### [Volgako Batelariak](http://eibar.org/blogak/volga)
 
-##### [Viewpoint Magazine]( https://viewpointmag.com/)
+##### [Xabier Mendiguren](http://eibar.org/blogak/mendiguren)
 
-##### [Volgako Batelariak]( http://eibar.org/blogak/volga)
-
-##### [Xabier Mendiguren]( http://eibar.org/blogak/mendiguren)
-
-##### [Xerezaderen Artxiboa]( http://blogak.com/xalp "entzuteko literatura")
-
-##### [Xomorrito]( http://xomorrito.com/)
+##### [Xerezaderen Artxiboa](http://xerezade.org/)
