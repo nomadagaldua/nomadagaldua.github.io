@@ -1,79 +1,85 @@
-### [27 zapata]( http://www.27zapata.com/)
+---
+layout: page
+title: Blogroll
+permalink: /blogroll/
+---
 
-### [Ainara Lasa](http://ainaralasa.com/ "ainaralasa.com")
+## [27 zapata]( http://www.27zapata.com/)
 
-### [Alain Urrutia](http://www.alainurrutia.com/ "alainurrutia.com")
+## [Ainara Lasa](http://ainaralasa.com/ "ainaralasa.com")
 
-### [AnnieSdelMono](http://anniesdelmono.wordpress.com/)
+## [Alain Urrutia](http://www.alainurrutia.com/ "alainurrutia.com")
 
-### [Armiarma.eus](http://www.armiarma.eus/)
+## [AnnieSdelMono](http://anniesdelmono.wordpress.com/)
 
-### [Ballast](http://www.revue-ballast.fr/)
+## [Armiarma.eus](http://www.armiarma.eus/)
 
-### [Barnezine](http://www.barnezine.com/)
+## [Ballast](http://www.revue-ballast.fr/)
 
-### [Birasuegi Komandantea](http://birasuegi.com/)
+## [Barnezine](http://www.barnezine.com/)
 
-### [Boligrafo gorria](http://www.argia.eus/blogak/boligrafo-gorria/)
+## [Birasuegi Komandantea](http://birasuegi.com/)
 
-### [Danele Sarriugarte (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/danele-sarriugarte)
+## [Boligrafo gorria](http://www.argia.eus/blogak/boligrafo-gorria/)
 
-### [Danele Sarriugarte (berria.eus)](http://www.berria.eus/egilea/danele_sarriugarte)
+## [Danele Sarriugarte (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/danele-sarriugarte)
 
-### [Elearazi](http://elearazi.eus/)
+## [Danele Sarriugarte (berria.eus)](http://www.berria.eus/egilea/danele_sarriugarte)
 
-### [Etzi.pm](http://etzi.pm/)
+## [Elearazi](http://elearazi.eus/)
 
-### [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
+## [Etzi.pm](http://etzi.pm/)
 
-### [Hiri asko bere baitan](http://hiriaskoberebaitan.com/)
+## [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
 
-### [Hiru Damatxo](http://www.hirudamatxo.eus/)
+## [Hiri asko bere baitan](http://hiriaskoberebaitan.com/)
 
-### [Itziar Ugarte Irizar (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/itziar-ugarte-irizar)
+## [Hiru Damatxo](http://www.hirudamatxo.eus/)
 
-### [Itziar Ugarte Irizar (berria.eus)](https://www.berria.eus/egilea/Itziar_Ugarte_Irizar)
+## [Itziar Ugarte Irizar (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/itziar-ugarte-irizar)
 
-### [Komunzki](http://www.argia.eus/blogak/ignazio-aiestaran)
+## [Itziar Ugarte Irizar (berria.eus)](https://www.berria.eus/egilea/Itziar_Ugarte_Irizar)
 
-### [Lapiko Kritikoa](http://basque.criticalstew.org/)
+## [Komunzki](http://www.argia.eus/blogak/ignazio-aiestaran)
 
-### [Lekore](http://lekore.eus/)
+## [Lapiko Kritikoa](http://basque.criticalstew.org/)
 
-### [Nire kontra esanak](http://zuzeu.com/blogak/nire-kontraesanak/)
+## [Lekore](http://lekore.eus/)
 
-### [Oharrak & Hondarrak](https://ibanzaldua.wordpress.com/)
+## [Nire kontra esanak](http://zuzeu.com/blogak/nire-kontraesanak/)
 
-### [OkerrekO](http://okerreko.net/)
+## [Oharrak & Hondarrak](https://ibanzaldua.wordpress.com/)
 
-### [Période](http://revueperiode.net/)
+## [OkerrekO](http://okerreko.net/)
 
-### [Pikara](http://www.pikaramagazine.com/)
+## [Période](http://revueperiode.net/)
 
-### [Poetas da Hostia](http://poetasdahostia.blogaliza.org/)
+## [Pikara](http://www.pikaramagazine.com/)
 
-### [Polirika](https://julegoikoetxea.wordpress.com/)
+## [Poetas da Hostia](http://poetasdahostia.blogaliza.org/)
 
-### [Radical Film Network](http://www.radicalfilmnetwork.com/)
+## [Polirika](https://julegoikoetxea.wordpress.com/)
 
-### [Separata](https://separata.wordpress.com/)
+## [Radical Film Network](http://www.radicalfilmnetwork.com/)
 
-### [Talaios Koop.]( http://talaios.net/)
+## [Separata](https://separata.wordpress.com/)
 
-### [Teketen]( http://teketen.com/)
+## [Talaios Koop.]( http://talaios.net/)
 
-### [Topatu]( http://topatu.eus/)
+## [Teketen]( http://teketen.com/)
 
-### [Txikira beti hordago!]( http://txikirabetihordago.net/)
+## [Topatu]( http://topatu.eus/)
 
-### [Txiribueltaka idatzitako poemak]( http://txiribueltaka.blogspot.com/)
+## [Txikira beti hordago!]( http://txikirabetihordago.net/)
 
-### [Viewpoint Magazine]( https://viewpointmag.com/)
+## [Txiribueltaka idatzitako poemak]( http://txiribueltaka.blogspot.com/)
 
-### [Volgako Batelariak]( http://eibar.org/blogak/volga)
+## [Viewpoint Magazine]( https://viewpointmag.com/)
 
-### [Xabier Mendiguren]( http://eibar.org/blogak/mendiguren)
+## [Volgako Batelariak]( http://eibar.org/blogak/volga)
 
-### [Xerezaderen Artxiboa]( http://blogak.com/xalp "entzuteko literatura")
+## [Xabier Mendiguren]( http://eibar.org/blogak/mendiguren)
 
-### [Xomorrito]( http://xomorrito.com/)
+## [Xerezaderen Artxiboa]( http://blogak.com/xalp "entzuteko literatura")
+
+## [Xomorrito]( http://xomorrito.com/)
