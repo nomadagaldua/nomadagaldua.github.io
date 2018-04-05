@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h2>Bloga</h2>
+<h2>Bloga</h2> <p><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+
 {% for post in site.posts %}
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+		<time>{{ post.date | date: "%Y(e)ko %b(a)ren %-da" }}</time>
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
