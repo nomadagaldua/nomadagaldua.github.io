@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Bloga <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
 ---
-
-<h2>Bloga</h2> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+<hr />
 
 {% for post in site.posts %}
 		<time>{{ post.date | date: "%Y/%b/%-d" }}</time>
