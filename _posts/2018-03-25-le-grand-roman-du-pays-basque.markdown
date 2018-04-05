@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "«Le grand roman du Pays Basque»"
 date:   2018-03-25 21:40
 categories: iritzia
@@ -18,3 +19,21 @@ Ez dut, egia da, liburua esku artean izan. Euskaraz irakurriko nuke? Ez dakit. [
 ***   
 
 [Jatorrizkoa Zuzeu orinkarian](https://zuzeu.eus/kultura/le-grand-roman-du-pays-basque/)
+
+{% if page.comments %}<div id="disqus_thread"></div>
+<script>
+
+/*
+var disqus_config = function () {
+this.page.url = http://nomadagaldua.eus/iritzia/2018/03/25/le-grand-roman-du-pays-basque.html;
+this.page.identifier = iritzia/2018/03/25/le-grand-roman-du-pays-basque.html;
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nomadagaldua-eus.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
