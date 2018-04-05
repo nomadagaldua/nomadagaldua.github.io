@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-{% include head.html %}
+<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<link rel="shortcut icon" href="/img/pi.png">
+
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
 <style> 
 .flex-container {
     display: -webkit-flex;
@@ -41,13 +51,37 @@ footer {background: #aaa;color:white;}
 </style>
 </head>
 <body>
-	{% include header.html %}
+	<aside>
+	<div class="container">
+		<nav>
+			<ul>
+				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Bloga</a></li>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<h1><a href="https://nomadagaldua.github.io/">{{ site.title }}</a></h1>
+</header>
 	<main>
 		<article>
 			{{ content }}
 		</article>
-    <body>
-		{% include footer.html %}
+		<footer>
+	<hr>
+	<p><a href="https://mastodon.social/@nomadagaldua" target="_blank"><img src="/img/mastodon.png" alt="Mastodon" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://telegram.me/nomadagaldua" target="_blank"><img src="/img/telegram.png" alt="Telegram" style="width:42px;height:42px;border:0;"></a>
+		<a href="mailto:iparragirre.peru@yahoo.es"><img src="/img/email.png" alt="e-posta" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://github.com/nomadagaldua" target="_blank"><img src="/img/github.png" alt="Github" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://www.flickr.com/photos/peruiparragirre/" target="_blank"><img src="/img/flickr.png" alt="Flickr" style="width:42px;height:42px;border:0;"></a></p>
+	<p><font size="2" color="grey">Jatorrizko kodea (Jekyll): <a href="http://taniarascia.com">Tania</font></p>
+</footer>
 	</main>
 </body>
 
