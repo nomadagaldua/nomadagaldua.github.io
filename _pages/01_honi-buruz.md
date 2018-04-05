@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Honi buruz
+permalink: /honi-buruz/
 ---
 
 About content goes here.
