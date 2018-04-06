@@ -31,6 +31,8 @@ Hainbat gune eta jende interesgarri
 
 ##### [Gibeljalea](https://gibeljale.wordpress.com/)
 
+##### [Han eta hemen](http://hanetahemen.blogspot.com/)
+
 ##### [Harrikadak](https://eibar.org/blogak/iturri)
 
 ##### [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
