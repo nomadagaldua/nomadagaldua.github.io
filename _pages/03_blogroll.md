@@ -35,6 +35,10 @@ Hainbat gune eta jende interesgarri
 
 ##### [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
 
+##### [Inon izatekotan](https://www.berria.eus/blogariak/inonizatekotan/)
+
+##### [Iparraldeko neska](https://www.berria.eus/blogariak/iparraldekoneska/)
+
 ##### [Itziar Ugarte Irizar (argia.eus)](http://www.argia.eus/argia-astekaria/egileak/itziar-ugarte-irizar)
 
 ##### [Itziar Ugarte Irizar (berria.eus)](https://www.berria.eus/egilea/Itziar_Ugarte_Irizar)
