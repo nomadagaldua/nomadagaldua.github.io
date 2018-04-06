@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 MIT License
 
 Copyright (c) 2018 Tania Rascia
