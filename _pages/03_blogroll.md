@@ -29,6 +29,8 @@ Hainbat gune eta jende interesgarri
 
 ##### [Ferrando Xanpun (kontulepo.eus)](http://www.kontulepo.eus/index.php/author/jon-gurrutxagaurbieta/)
 
+##### [Gibeljalea](https://gibeljale.wordpress.com/)
+
 ##### [Harrikadak](https://eibar.org/blogak/iturri)
 
 ##### [Hedoi Etxarte (berria.eus)](http://www.berria.eus/egilea/hedoi_etxarte)
