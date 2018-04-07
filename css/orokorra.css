@@ -110,11 +110,11 @@ font-family: 'Work Sans', sans-serif;
     }
     
     footer {
-    	color: whitesmoke;
+    	color: black;
     clear:both;
     padding:5px 10px;
     margin:0;
-    background-color: grey;
+    background-color: whitesmoke;
     font-size: 12px;
     text-align: center;
     width: 100%
