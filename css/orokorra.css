@@ -1,0 +1,121 @@
+    body, html {
+    margin:0;
+    padding:0;
+    color:#000;
+    background:whitesmoke;
+    }
+	
+    #wrap {
+    max-width: 80%;
+    margin:0 auto;
+    }
+	 .edukia {
+    font-family: 'Work Sans', sans-serif;
+	 }
+    header {
+    padding:40px 40px;
+    text-align: center;
+     position:fixed;     
+	 top:0px;
+        left:65%;
+        z-index:1000;
+    }
+    .header-container {
+background-color:whitesmoke;
+padding:40px 40px;
+position:fixed;     
+	 top:0px;
+        left:65%;
+        z-index:1001;
+    }
+    .data {
+	color:grey;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 16px;
+	font-variant:small-caps;    
+    }
+    .jatorrizkoa {
+font-family: 'Work Sans', sans-serif;
+	font-size: 16px;
+	font-variant:small-caps;  
+	text-align:center;    
+    }
+    .hasiera {
+	  float:right; 
+	  margin: 20px;   
+    }
+    h1 {
+    font-size: 40px;
+    color: whitesmoke;
+    text-shadow: 5px 2px black;
+    margin:0;
+    }    
+    #main {
+    	margin-bottom: 400px;
+    float:left;
+    width:55%;
+    padding:10px;
+    margin-top: 150px
+      }
+    h2 {
+    margin:0 0 1em;
+     }
+    h4 {
+    text-align: center;
+    } 
+ 	a:link {
+ 		color: black;
+    text-decoration: none;
+    background-color: yellow;
+}
+	a:visited {
+	 color: black;
+    text-decoration: none;
+    background-color: yellow;
+}
+
+	a:hover {
+	 color:whitesmoke;
+    text-decoration: none;
+    background-color: black;
+}
+
+	a:active {
+    text-decoration: none;
+}   
+    aside {
+    float:right;
+    width:25%;
+    padding:10px;   
+    border-style:solid;
+	 border-color:grey;
+	 border-width:1px;
+	 margin-top: 50px;
+	 margin-bottom:50px;
+	 padding-bottom:20px;
+	 position:fixed;     
+	 top:100px;
+        left:60%;
+        z-index:1000;
+    }
+    #aurkez {
+		text-align:center;
+		padding-top:20px;
+		padding-bottom:20px;	
+    }
+    
+    #blogroll {
+	 	padding-top: 20px;
+	 	padding-left:20px;    
+    }
+    
+    footer {
+    	color: whitesmoke;
+    clear:both;
+    padding:5px 10px;
+    margin:0;
+    background-color: grey;
+    font-size: 12px;
+    text-align: center;
+    width: 100%
+    }
