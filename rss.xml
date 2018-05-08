@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<atom:link href="https://nomadagaldua.eus/rss.xml" rel="self" type="application/rss+xml" />
+<channel>
+  <title>nomadagaldua.eus</title>
+  <link>https://nomadagaldua.eus/</link>
+  <description>Peru Iparragirreren bloga</description>
+  <item>
+    <title>«Le Grand Roman du Pays Basque»</title>
+    <link>https://nomadagaldua.eus/bloga/le-grand-roman</link>
+  </item>
+</channel>
+</rss> 
