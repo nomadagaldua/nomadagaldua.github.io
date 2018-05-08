@@ -1,20 +1,13 @@
     body, html {
     margin:0;
-    padding:0;
-    color:#000;
-    background:whitesmoke;
-    }
-	
-    #wrap {
-    max-width: 80%;
-    margin:0 auto;
-    }
-	 .edukia {
+    padding-left:15%;
+    padding-right: 15%;
+    padding-top: 2%;
     font-family: 'Work Sans', sans-serif;
-	 }  
+    }  
     header {
-    padding:20px;
     text-align: center;
+    padding-bottom: 5%;
     }
     .data {
 	color:grey;
@@ -27,39 +20,16 @@
 	font-size: 16px;
 	font-variant:small-caps;  
 	text-align:center;    
-    }
-    .hasiera {
-	  float:right; 
-	  margin: 20px;   
-    }
-    h1 {
-    font-size: 2vw;
-    color: whitesmoke;
-    text-shadow: 5px 2px black;
-    margin:0;
-    }    
-    #main {
-    margin-bottom: 50px;
-    float:left;
-    width:55%;
-    padding:10px;
-    margin-top: 100px
-      }
-    h2 {
-    margin:0 0 1em;
-     }
-    h4 {
-    text-align: center;
-    } 
+    }  
  	a:link {
- 		color: black;
+ 	 color: black;
     text-decoration: none;
-    background-color: yellow;
+    background-color: whitesmoke;
 }
 	a:visited {
 	 color: black;
     text-decoration: none;
-    background-color: yellow;
+    background-color: whitesmoke;
 }
 
 	a:hover {
@@ -71,30 +41,25 @@
 	a:active {
     text-decoration: none;
 }   
-    aside {
-    float:right;
-    width:30%;
-    height: 100%;
-    border-style:solid;
-	 border-color:black;
-	 border-width: 1px;
-	 margin-top: 50px;
-	 margin-bottom:50px;
-    }
-    #aurkez {
-		text-align:center;
-	padding: 20px;
-    }
-    
-    #blogroll {
-	 padding: 20px;
-    }
-    
     footer {
-    	color: black;
+    color: black;
     clear:both;
-    padding: 5px;
-    background-color: whitesmoke;
+    padding-top: 40px;
     font-size: 12px;
     text-align: center;
     }
+    .akatsa {
+   text-align: center;
+   font-size: 4vw;
+   padding: 20%;
+}
+.nav a {
+padding: 4px 6px;
+}
+.nav a.active {
+    background-color: black;
+    color: white;
+}
+.nav {
+font-variant: small-caps;
+}
