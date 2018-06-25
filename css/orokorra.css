@@ -73,10 +73,10 @@ font-variant: small-caps;
 a:link.rss {
 	 color: black;
  text-decoration: none;
- background-color: whitesmoke;
+ background-color: orange;
 }
 a:hover.rss  {
- color:black;
+ color:whitesmoke;
 text-decoration: none;
-background-color: orange;
+background-color: black;
 }
