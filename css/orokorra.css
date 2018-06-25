@@ -70,12 +70,12 @@ font-variant: small-caps;
 .irudiak {
 	width: 100%;
 }
-.rss a:link {
+a:link.rss {
 	 color: black;
  text-decoration: none;
  background-color: whitesmoke;
 }
-.rss a:hover {
+a:hover.rss  {
  color:black;
 text-decoration: none;
 background-color: orange;
