@@ -80,11 +80,6 @@ a:hover.rss  {
  text-decoration: none;
  background-color: black;
 }
-a:visited.rss {
- color: black;
- text-decoration: none;
- background-color: orange;
-}
 a:active.rss {
       
       
